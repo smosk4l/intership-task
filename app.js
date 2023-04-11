@@ -1,5 +1,6 @@
 const maxWidth = 50;
 const ducks = [
+  [20, 50],
   [3, 2],
   [5, 4],
   [7, 6],
